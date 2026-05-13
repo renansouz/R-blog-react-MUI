@@ -10,7 +10,7 @@
 
 React blog interface with Material UI, TypeScript, dark mode, and responsive layouts
 
-![Project Preview](https://i.imgur.com/NXdvrYm.png)
+![Project Preview](https://i.imgur.com/oPrQjCY.jpeg)
 
 ## Introduction
 
